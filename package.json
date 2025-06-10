@@ -1,0 +1,30 @@
+{
+  "name": "simple-js-ripemd160",
+  "version": "1.0.0",
+  "description": "simple js ripemd (160bit) implementation",
+  "main": "./src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azero123/simple-js-ripemd160.git"
+  },
+  "keywords": [
+    "ripemd",
+    "ripemd160",
+    "ripemd-160",
+    "hash"
+  ],
+  "author": "Azero123",
+  "license": "MIT",
+  "types": "./src/main.d.ts",
+  "bugs": {
+    "url": "https://github.com/Azero123/simple-js-ripemd160/issues"
+  },
+  "homepage": "https://github.com/Azero123/simple-js-ripemd160#readme",
+  "readme": "README.md"
+}
